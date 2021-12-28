@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="放松一下, acwing-zyy 计算机 算法">
+    <meta name="keywords" content="实用代码, acwing-zyy 计算机 算法">
     <meta name="description" content="本科 | 计算机科学与技术 | 准全栈工程师">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -28,7 +28,7 @@
 </script>
 
 
-    <title>放松一下 | acwing-zyy</title>
+    <title>实用代码 | acwing-zyy</title>
 
     <link rel="icon" type="image/png" href="https://cdn.jsdelivr.net/gh/acwing-zyy/blog-imgs/images/acwing.png">
 
@@ -632,12 +632,12 @@
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('https://cdn.jsdelivr.net/gh/acwing-zyy/blog-imgs/images/ani435.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('https://cdn.jsdelivr.net/gh/acwing-zyy/blog-imgs/images/ani143.jpg')">
     <div class="container" style="right: 0px;left: 0px;">
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title">放松一下</h1>
+                    <h1 class="description center-align post-title">实用代码</h1>
                 </div>
             </div>
         </div>
@@ -756,12 +756,25 @@
             <div class="row tag-cate">
                 <div class="col s7">
                     
-                          <div class="article-tag">
-                            <span class="chip bg-color">无标签</span>
-                          </div>
+                    <div class="article-tag">
+                        
+                            <a href="/tags/%E6%B7%B7%E5%90%88/">
+                                <span class="chip bg-color">混合</span>
+                            </a>
+                        
+                    </div>
                     
                 </div>
                 <div class="col s5 right-align">
+                    
+                    <div class="post-cate">
+                        <i class="fas fa-bookmark fa-fw icon-category"></i>
+                        
+                            <a href="/categories/%E4%BB%A3%E7%A0%81%E7%AF%87/" class="post-category">
+                                代码篇
+                            </a>
+                        
+                    </div>
                     
                 </div>
             </div>
@@ -770,7 +783,7 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-minus fa-fw"></i>发布日期:&nbsp;&nbsp;
-                    2019-08-10
+                    2021-12-28
                 </div>
                 
 
@@ -784,14 +797,14 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    6
+                    427
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-clock fa-fw"></i>阅读时长:&nbsp;&nbsp;
-                    1 分
+                    2 分
                 </div>
                 
 
@@ -809,9 +822,86 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h1 id="影音资源共享"><a href="#影音资源共享" class="headerlink" title="影音资源共享"></a>影音资源共享</h1>
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=2979186&amp;cid=4667585&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div>
+                <h1 id="B站直播发弹幕"><a href="#B站直播发弹幕" class="headerlink" title="B站直播发弹幕"></a>B站直播发弹幕</h1><div class="note primary">语言：python</div>
 
+
+
+<pre class="line-numbers language-python" data-language="python"><code class="language-python"><span class="token keyword">import</span> requests
+<span class="token keyword">import</span> time
+url<span class="token operator">=</span><span class="token string">'https://api.live.bilibili.com/msg/send'</span>
+<span class="token comment"># 自己的cookie信息要设置</span>
+header<span class="token operator">=</span><span class="token punctuation">{</span>
+<span class="token string">'cookie'</span><span class="token punctuation">:</span> <span class="token string">"_uuid=941151DD-72B0-753D-D6D7-A849005B2E0767240infoc; buvid3=AE23C0DC-734A-4ABC-996B-1B43F218E27418534infoc; blackside_state=1; rpdid=|(YYlJRJ)ul0J'uYuJ~uYR~m; buvid_fp=AE23C0DC-734A-4ABC-996B-1B43F218E27418534infoc; LIVE_BUVID=AUTO4716139069158309; CURRENT_BLACKGAP=1; SESSDATA=e506a32c%2C1645012669%2C001f4%2A81; bili_jct=07a58a0f31444db83abd13690b575514; DedeUserID=2120510185; DedeUserID__ckMd5=abb7fc19dee52a82; sid=7fs6x6dr; fingerprint3=0873798c07cd5d7845d7cd13e4fd4a6f; fingerprint_s=589f13a5a4950d04fb20a7f555621325; fingerprint=3dcced00761530c6495bc03d5b86708d; buvid_fp_plain=82D90DC4-D774-4D12-8884-50896A78737C13446infoc; video_page_version=v_old_home; i-wanna-go-back=1; b_ut=6; CURRENT_FNVAL=2000; CURRENT_QUALITY=80; bsource=search_bing; b_lsid=9232A1F3_17DA9CF6C56; _dfcaptcha=a58bb2c85b17eee4fdf06fa74d910496; Hm_lvt_8a6e55dbd2870f0f5bc9194cddf32a02=1638709130,1638711543,1639227030,1639232979; innersign=1; bp_t_offset_2120510185=602992165454898089; bp_video_offset_2120510185=602992165454898089; bp_article_offset_2120510185=601721834383396363; Hm_lpvt_8a6e55dbd2870f0f5bc9194cddf32a02=1639235065; PVID=15"</span>
+<span class="token punctuation">}</span>
+
+<span class="token keyword">def</span> <span class="token function">messager</span><span class="token punctuation">(</span>msg<span class="token punctuation">)</span><span class="token punctuation">:</span>
+    data<span class="token operator">=</span><span class="token punctuation">{</span>
+        <span class="token string">'bubble'</span><span class="token punctuation">:</span> <span class="token string">'0'</span><span class="token punctuation">,</span>
+        <span class="token string">'msg'</span><span class="token punctuation">:</span> msg<span class="token punctuation">,</span>
+        <span class="token string">'color'</span><span class="token punctuation">:</span> <span class="token string">'16777215'</span><span class="token punctuation">,</span>
+        <span class="token string">'mode'</span><span class="token punctuation">:</span> <span class="token string">'1'</span><span class="token punctuation">,</span>
+        <span class="token string">'fontsize'</span><span class="token punctuation">:</span> <span class="token string">'25'</span><span class="token punctuation">,</span>
+        <span class="token string">'rnd'</span><span class="token punctuation">:</span> <span class="token string">'1639235298'</span><span class="token punctuation">,</span>
+        <span class="token comment"># 房间号，要从直播间获取</span>
+        <span class="token string">'roomid'</span><span class="token punctuation">:</span> <span class="token string">'3066386'</span><span class="token punctuation">,</span>
+        <span class="token string">'csrf'</span><span class="token punctuation">:</span> <span class="token string">'07a58a0f31444db83abd13690b575514'</span><span class="token punctuation">,</span>
+        <span class="token string">'csrf_token'</span><span class="token punctuation">:</span> <span class="token string">'07a58a0f31444db83abd13690b575514'</span>
+    <span class="token punctuation">}</span>
+    <span class="token keyword">return</span> data
+<span class="token comment"># 要发送的消息</span>
+msg_list<span class="token operator">=</span><span class="token punctuation">[</span><span class="token string">'666'</span><span class="token punctuation">,</span><span class="token string">'tql'</span><span class="token punctuation">,</span><span class="token string">'233'</span><span class="token punctuation">]</span>
+<span class="token keyword">for</span> msg <span class="token keyword">in</span> msg_list<span class="token punctuation">:</span>
+    new_data<span class="token operator">=</span>messager<span class="token punctuation">(</span>msg<span class="token punctuation">)</span>
+    res<span class="token operator">=</span>requests<span class="token punctuation">.</span>post<span class="token punctuation">(</span>url<span class="token punctuation">,</span>headers<span class="token operator">=</span>header<span class="token punctuation">,</span>data<span class="token operator">=</span>new_data<span class="token punctuation">)</span><span class="token punctuation">.</span>text
+    <span class="token comment"># 设置消息间隔时长</span>
+    time<span class="token punctuation">.</span>sleep<span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">)</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span>res<span class="token punctuation">)</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+<h1 id="获取当前经纬度"><a href="#获取当前经纬度" class="headerlink" title="获取当前经纬度"></a>获取当前经纬度</h1><div class="note primary">语言: html5</div>
+
+<pre class="line-numbers language-html" data-language="html"><code class="language-html"><span class="token doctype"><span class="token punctuation">&lt;!</span><span class="token doctype-tag">DOCTYPE</span> <span class="token name">html</span><span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>html</span> <span class="token attr-name">lang</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>en<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>head</span><span class="token punctuation">&gt;</span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>meta</span> <span class="token attr-name">charset</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>UTF-8<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>meta</span> <span class="token attr-name">http-equiv</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>X-UA-Compatible<span class="token punctuation">"</span></span> <span class="token attr-name">content</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>IE=edge<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>meta</span> <span class="token attr-name">name</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>viewport<span class="token punctuation">"</span></span> <span class="token attr-name">content</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>width=device-width, initial-scale=1.0<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>title</span><span class="token punctuation">&gt;</span></span>location<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>title</span><span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>head</span><span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>body</span><span class="token punctuation">&gt;</span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>button<span class="token punctuation">"</span></span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>btnLocation<span class="token punctuation">"</span></span> <span class="token attr-name">value</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>获取位置信息<span class="token punctuation">"</span></span><span class="token punctuation">/&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>body</span><span class="token punctuation">&gt;</span></span>
+<span class="token comment">&lt;!-- 这里需要引入jquery --&gt;</span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>script</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>../jquery/node_modules/jquery/dist/jquery.js<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span><span class="token script"></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>script</span><span class="token punctuation">&gt;</span></span><span class="token script"><span class="token language-javascript">
+    <span class="token comment">//检测是否支持地理信息</span>
+    <span class="token keyword">function</span> <span class="token function">isSupportGeo</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+    <span class="token punctuation">{</span>
+        <span class="token keyword">return</span> <span class="token punctuation">(</span>navigator<span class="token punctuation">.</span>geolocation<span class="token operator">!=</span><span class="token keyword">null</span><span class="token punctuation">)</span>
+    <span class="token punctuation">}</span>
+    <span class="token comment">//绑定click事件</span>
+    <span class="token function">$</span><span class="token punctuation">(</span><span class="token string">"#btnLocation"</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">click</span><span class="token punctuation">(</span><span class="token keyword">function</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+        <span class="token keyword">if</span><span class="token punctuation">(</span><span class="token operator">!</span><span class="token function">isSupportGeo</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+        <span class="token punctuation">{</span>
+            <span class="token function">alert</span><span class="token punctuation">(</span><span class="token string">"浏览器不支持地理位置定位!"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span>
+        <span class="token keyword">else</span>
+        <span class="token punctuation">{</span>
+            navigator<span class="token punctuation">.</span>geolocation<span class="token punctuation">.</span><span class="token function">getCurrentPosition</span><span class="token punctuation">(</span>doSucc<span class="token punctuation">,</span>doFail<span class="token punctuation">)</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token comment">//处理成功</span>
+    <span class="token keyword">function</span> <span class="token function">doSucc</span><span class="token punctuation">(</span><span class="token parameter">position</span><span class="token punctuation">)</span>
+    <span class="token punctuation">{</span>
+        <span class="token function">alert</span><span class="token punctuation">(</span><span class="token string">"成功获取地理位置，您当前所处的位置位于经度:"</span><span class="token operator">+</span>position<span class="token punctuation">.</span>coords<span class="token punctuation">.</span>longitude<span class="token operator">+</span><span class="token string">"纬度:"</span><span class="token operator">+</span>position<span class="token punctuation">.</span>coords<span class="token punctuation">.</span>latitude<span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token punctuation">}</span>
+    <span class="token comment">//处理失败</span>
+    <span class="token keyword">function</span> <span class="token function">doFail</span><span class="token punctuation">(</span><span class="token parameter">error</span><span class="token punctuation">)</span>
+    <span class="token punctuation">{</span>
+        <span class="token keyword">var</span> errors<span class="token operator">=</span><span class="token punctuation">[</span><span class="token string">"拒绝地理信息服务"</span><span class="token punctuation">,</span><span class="token string">"获取不到地理信息"</span><span class="token punctuation">,</span><span class="token string">"获取信息超时"</span><span class="token punctuation">]</span>
+        <span class="token function">alert</span><span class="token punctuation">(</span>errors<span class="token punctuation">[</span>error<span class="token punctuation">.</span>code<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token punctuation">}</span>
+</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>html</span><span class="token punctuation">&gt;</span></span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
 
 
                 
@@ -839,7 +929,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="http://acwing-zyy.github.io/List/index.html">http://acwing-zyy.github.io/List/index.html</a>
+                    <a href="http://acwing-zyy.github.io/posts/7b5a4fa3.html">http://acwing-zyy.github.io/posts/7b5a4fa3.html</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -876,7 +966,11 @@
                 <div class="post-meta__tag-list" style="display: inline-block;">
                     
                         <div class="article-tag">
-                            <span class="chip bg-color">无标签</span>
+                            
+                                <a href="/tags/%E6%B7%B7%E5%90%88/">
+                                    <span class="chip bg-color">混合</span>
+                                </a>
+                            
                         </div>
                     
                 </div>
@@ -1351,34 +1445,46 @@ new Valine({
                 <i class="far fa-dot-circle"></i>&nbsp;本篇
             </div>
             <div class="card">
-                <a href="/List/index.html">
+                <a href="/posts/7b5a4fa3.html">
                     <div class="card-image">
                         
                         
-                        <img src="https://cdn.jsdelivr.net/gh/acwing-zyy/blog-imgs/images/ani435.jpg" class="responsive-img" alt="放松一下">
+                        <img src="https://cdn.jsdelivr.net/gh/acwing-zyy/blog-imgs/images/ani143.jpg" class="responsive-img" alt="实用代码">
                         
-                        <span class="card-title">放松一下</span>
+                        <span class="card-title">实用代码</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            
+                            实用代码集锦
                         
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2019-08-10
+                                <i class="far fa-clock fa-fw icon-date"></i>2021-12-28
                             </span>
                         <span class="publish-author">
                             
-                            <i class="fas fa-user fa-fw"></i>
-                            acwing-zyy
+                            <i class="fas fa-bookmark fa-fw icon-category"></i>
+                            
+                            <a href="/categories/%E4%BB%A3%E7%A0%81%E7%AF%87/" class="post-category">
+                                    代码篇
+                                </a>
+                            
                             
                         </span>
                     </div>
                 </div>
 
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/%E6%B7%B7%E5%90%88/">
+                        <span class="chip bg-color">混合</span>
+                    </a>
+                    
+                </div>
                 
             </div>
         </div>
@@ -1386,37 +1492,48 @@ new Valine({
         
         <div class="article col s12 m6" data-aos="fade-up">
             <div class="article-badge right-badge text-color">
-                本篇&nbsp;<i class="far fa-dot-circle"></i>
+                下一篇&nbsp;<i class="fas fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/List/index.html">
+                <a href="/posts/6cbaff7d.html">
                     <div class="card-image">
                         
                         
-                        <img src="https://cdn.jsdelivr.net/gh/acwing-zyy/blog-imgs/images/ani435.jpg" class="responsive-img" alt="放松一下">
+                        <img src="https://cdn.jsdelivr.net/gh/acwing-zyy/blog-imgs/images/ani841.jpg" class="responsive-img" alt="hexo博客初级配置">
                         
-                        <span class="card-title">放松一下</span>
+                        <span class="card-title">hexo博客初级配置</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            
+                            hexo简单配置及流程记录
                         
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2019-08-10
+                                <i class="far fa-clock fa-fw icon-date"></i>2021-12-28
                             </span>
                         <span class="publish-author">
                             
-                            <i class="fas fa-user fa-fw"></i>
-                            acwing-zyy
+                            <i class="fas fa-bookmark fa-fw icon-category"></i>
+                            
+                            <a href="/categories/%E9%85%8D%E7%BD%AE%E7%AF%87/" class="post-category">
+                                    配置篇
+                                </a>
+                            
                             
                         </span>
                     </div>
                 </div>
-
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/hexo/">
+                        <span class="chip bg-color">hexo</span>
+                    </a>
+                    
+                </div>
                 
             </div>
         </div>
@@ -1544,6 +1661,13 @@ new Valine({
 
 </main>
 
+
+<script src="https://cdn.bootcss.com/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script>
+    MathJax.Hub.Config({
+        tex2jax: {inlineMath: [['$', '$'], ['\(', '\)']]}
+    });
+</script>
 
 
 
