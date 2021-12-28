@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>acwing-zyy</title>
+  
+  <subtitle>你是否全力以赴了？</subtitle>
+  <link href="http://acwing-zyy.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://acwing-zyy.github.io/"/>
+  <updated>2021-12-28T11:30:39.165Z</updated>
+  <id>http://acwing-zyy.github.io/</id>
+  
+  <author>
+    <name>acwing-zyy</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo博客初级配置</title>
+    <link href="http://acwing-zyy.github.io/posts/6cbaff7d.html"/>
+    <id>http://acwing-zyy.github.io/posts/6cbaff7d.html</id>
+    <published>2021-12-28T11:14:55.000Z</published>
+    <updated>2021-12-28T11:30:39.165Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="配置篇" scheme="http://acwing-zyy.github.io/categories/%E9%85%8D%E7%BD%AE%E7%AF%87/"/>
+    
+    
+    <category term="hexo" scheme="http://acwing-zyy.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
