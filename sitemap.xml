@@ -9,13 +9,6 @@
   </url>
   
   <url>
-    <loc>http://acwing-zyy.github.io/posts/ec55185a.html</loc>
-    
-    <lastmod>2021-12-31</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://acwing-zyy.github.io/baidu_verify_code-KeUQZcexP9.html</loc>
     
     <lastmod>2021-12-28</lastmod>
@@ -100,6 +93,13 @@
   </url>
   
   <url>
+    <loc>http://acwing-zyy.github.io/archives/index.html</loc>
+    
+    <lastmod>2021-12-07</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://acwing-zyy.github.io/about/index.html</loc>
     
     <lastmod>2021-12-07</lastmod>
@@ -108,13 +108,6 @@
   
   <url>
     <loc>http://acwing-zyy.github.io/categories/index.html</loc>
-    
-    <lastmod>2021-12-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://acwing-zyy.github.io/archives/index.html</loc>
     
     <lastmod>2021-12-07</lastmod>
     
@@ -165,13 +158,6 @@
 
   
   <url>
-    <loc>http://acwing-zyy.github.io/tags/%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2021-12-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://acwing-zyy.github.io/tags/hexo/</loc>
     <lastmod>2021-12-31</lastmod>
     <changefreq>daily</changefreq>
@@ -186,13 +172,6 @@
   </url>
   
 
-  
-  <url>
-    <loc>http://acwing-zyy.github.io/categories/%E5%89%8D%E7%AB%AF%E7%AF%87/</loc>
-    <lastmod>2021-12-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>http://acwing-zyy.github.io/categories/%E9%85%8D%E7%BD%AE%E7%AF%87/</loc>

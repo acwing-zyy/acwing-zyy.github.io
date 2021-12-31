@@ -4,31 +4,6 @@
   
     
     <entry>
-      <title>CSS头像选择</title>
-      <link href="/posts/ec55185a.html"/>
-      <url>/posts/ec55185a.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="note info">这里是 info 标签样式</div><div class="note info no-icon">这里是不带符号的 info 标签样式</div><div class="note primary">这里是 primary 标签样式</div><div class="note primary no-icon">这里是不带符号的 primary 标签样式</div><div class="note warning">这里是 warning 标签样式</div><div class="note warning no-icon">这里是不带符号的 warning 标签样式</div> <div class="note danger">这里是 danger 标签样式</div> <div class="note danger no-icon">这里是不带符号的 danger 标签样式</div><h2 id="图片路径！！"><a href="#图片路径！！" class="headerlink" title="图片路径！！"></a><strong>图片路径！！</strong></h2>]]></content>
-      
-      
-      <categories>
-          
-          <category> 前端篇 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 标签 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>实用代码</title>
       <link href="/posts/7b5a4fa3.html"/>
       <url>/posts/7b5a4fa3.html</url>
