@@ -65,14 +65,14 @@
   </url>
   
   <url>
-    <loc>http://acwing-zyy.github.io/tags/index.html</loc>
+    <loc>http://acwing-zyy.github.io/resource/index.html</loc>
     
     <lastmod>2021-12-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://acwing-zyy.github.io/resource/index.html</loc>
+    <loc>http://acwing-zyy.github.io/tags/index.html</loc>
     
     <lastmod>2021-12-07</lastmod>
     
@@ -93,14 +93,14 @@
   </url>
   
   <url>
-    <loc>http://acwing-zyy.github.io/archives/index.html</loc>
+    <loc>http://acwing-zyy.github.io/about/index.html</loc>
     
     <lastmod>2021-12-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://acwing-zyy.github.io/about/index.html</loc>
+    <loc>http://acwing-zyy.github.io/archives/index.html</loc>
     
     <lastmod>2021-12-07</lastmod>
     
@@ -158,14 +158,14 @@
 
   
   <url>
-    <loc>http://acwing-zyy.github.io/tags/hexo/</loc>
+    <loc>http://acwing-zyy.github.io/tags/%E6%B7%B7%E5%90%88/</loc>
     <lastmod>2021-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://acwing-zyy.github.io/tags/%E6%B7%B7%E5%90%88/</loc>
+    <loc>http://acwing-zyy.github.io/tags/hexo/</loc>
     <lastmod>2021-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -174,14 +174,14 @@
 
   
   <url>
-    <loc>http://acwing-zyy.github.io/categories/%E9%85%8D%E7%BD%AE%E7%AF%87/</loc>
+    <loc>http://acwing-zyy.github.io/categories/%E4%BB%A3%E7%A0%81%E7%AF%87/</loc>
     <lastmod>2021-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://acwing-zyy.github.io/categories/%E4%BB%A3%E7%A0%81%E7%AF%87/</loc>
+    <loc>http://acwing-zyy.github.io/categories/%E9%85%8D%E7%BD%AE%E7%AF%87/</loc>
     <lastmod>2021-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
