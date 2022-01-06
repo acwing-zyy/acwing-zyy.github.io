@@ -6,7 +6,7 @@
   <link href="http://acwing-zyy.github.io/atom.xml" rel="self"/>
   
   <link href="http://acwing-zyy.github.io/"/>
-  <updated>2021-12-31T12:09:23.768Z</updated>
+  <updated>2022-01-06T09:35:39.281Z</updated>
   <id>http://acwing-zyy.github.io/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>三栏布局</title>
+    <link href="http://acwing-zyy.github.io/posts/74bc18a0.html"/>
+    <id>http://acwing-zyy.github.io/posts/74bc18a0.html</id>
+    <published>2022-01-06T09:09:53.000Z</published>
+    <updated>2022-01-06T09:35:39.281Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="前端篇" scheme="http://acwing-zyy.github.io/categories/%E5%89%8D%E7%AB%AF%E7%AF%87/"/>
+    
+    
+    <category term="css" scheme="http://acwing-zyy.github.io/tags/css/"/>
+    
+    <category term="html" scheme="http://acwing-zyy.github.io/tags/html/"/>
+    
+  </entry>
+  
+  <entry>
     <title>实用代码</title>
     <link href="http://acwing-zyy.github.io/posts/7b5a4fa3.html"/>
     <id>http://acwing-zyy.github.io/posts/7b5a4fa3.html</id>
     <published>2021-12-28T13:19:00.000Z</published>
-    <updated>2021-12-31T12:09:23.768Z</updated>
+    <updated>2021-12-31T12:23:21.460Z</updated>
     
     
       

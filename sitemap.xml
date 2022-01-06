@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://acwing-zyy.github.io/posts/74bc18a0.html</loc>
+    
+    <lastmod>2022-01-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://acwing-zyy.github.io/posts/7b5a4fa3.html</loc>
     
     <lastmod>2021-12-31</lastmod>
@@ -65,14 +72,14 @@
   </url>
   
   <url>
-    <loc>http://acwing-zyy.github.io/resource/index.html</loc>
+    <loc>http://acwing-zyy.github.io/tags/index.html</loc>
     
     <lastmod>2021-12-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://acwing-zyy.github.io/tags/index.html</loc>
+    <loc>http://acwing-zyy.github.io/resource/index.html</loc>
     
     <lastmod>2021-12-07</lastmod>
     
@@ -100,14 +107,14 @@
   </url>
   
   <url>
-    <loc>http://acwing-zyy.github.io/archives/index.html</loc>
+    <loc>http://acwing-zyy.github.io/categories/index.html</loc>
     
     <lastmod>2021-12-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://acwing-zyy.github.io/categories/index.html</loc>
+    <loc>http://acwing-zyy.github.io/archives/index.html</loc>
     
     <lastmod>2021-12-07</lastmod>
     
@@ -151,22 +158,36 @@
 
   <url>
     <loc>http://acwing-zyy.github.io/</loc>
-    <lastmod>2021-12-31</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://acwing-zyy.github.io/tags/%E6%B7%B7%E5%90%88/</loc>
-    <lastmod>2021-12-31</lastmod>
+    <loc>http://acwing-zyy.github.io/tags/hexo/</loc>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://acwing-zyy.github.io/tags/hexo/</loc>
-    <lastmod>2021-12-31</lastmod>
+    <loc>http://acwing-zyy.github.io/tags/css/</loc>
+    <lastmod>2022-01-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://acwing-zyy.github.io/tags/html/</loc>
+    <lastmod>2022-01-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://acwing-zyy.github.io/tags/%E6%B7%B7%E5%90%88/</loc>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -174,15 +195,22 @@
 
   
   <url>
-    <loc>http://acwing-zyy.github.io/categories/%E4%BB%A3%E7%A0%81%E7%AF%87/</loc>
-    <lastmod>2021-12-31</lastmod>
+    <loc>http://acwing-zyy.github.io/categories/%E9%85%8D%E7%BD%AE%E7%AF%87/</loc>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://acwing-zyy.github.io/categories/%E9%85%8D%E7%BD%AE%E7%AF%87/</loc>
-    <lastmod>2021-12-31</lastmod>
+    <loc>http://acwing-zyy.github.io/categories/%E5%89%8D%E7%AB%AF%E7%AF%87/</loc>
+    <lastmod>2022-01-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://acwing-zyy.github.io/categories/%E4%BB%A3%E7%A0%81%E7%AF%87/</loc>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
