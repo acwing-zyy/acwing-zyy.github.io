@@ -100,14 +100,14 @@
   </url>
   
   <url>
-    <loc>http://acwing-zyy.github.io/archives/index.html</loc>
+    <loc>http://acwing-zyy.github.io/about/index.html</loc>
     
     <lastmod>2021-12-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://acwing-zyy.github.io/about/index.html</loc>
+    <loc>http://acwing-zyy.github.io/archives/index.html</loc>
     
     <lastmod>2021-12-07</lastmod>
     
@@ -121,14 +121,14 @@
   </url>
   
   <url>
-    <loc>http://acwing-zyy.github.io/List/music/index.html</loc>
+    <loc>http://acwing-zyy.github.io/List/tools/index.html</loc>
     
     <lastmod>2021-12-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://acwing-zyy.github.io/List/tools/index.html</loc>
+    <loc>http://acwing-zyy.github.io/List/music/index.html</loc>
     
     <lastmod>2021-12-07</lastmod>
     
@@ -165,13 +165,6 @@
 
   
   <url>
-    <loc>http://acwing-zyy.github.io/tags/hexo/</loc>
-    <lastmod>2022-01-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://acwing-zyy.github.io/tags/css/</loc>
     <lastmod>2022-01-06</lastmod>
     <changefreq>daily</changefreq>
@@ -180,6 +173,13 @@
   
   <url>
     <loc>http://acwing-zyy.github.io/tags/html/</loc>
+    <lastmod>2022-01-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://acwing-zyy.github.io/tags/hexo/</loc>
     <lastmod>2022-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -195,14 +195,14 @@
 
   
   <url>
-    <loc>http://acwing-zyy.github.io/categories/%E9%85%8D%E7%BD%AE%E7%AF%87/</loc>
+    <loc>http://acwing-zyy.github.io/categories/%E5%89%8D%E7%AB%AF%E7%AF%87/</loc>
     <lastmod>2022-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://acwing-zyy.github.io/categories/%E5%89%8D%E7%AB%AF%E7%AF%87/</loc>
+    <loc>http://acwing-zyy.github.io/categories/%E9%85%8D%E7%BD%AE%E7%AF%87/</loc>
     <lastmod>2022-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
